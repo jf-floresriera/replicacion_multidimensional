@@ -1,6 +1,5 @@
 
 
-text
 # Replicación Multidimensional – Capítulo 21.5
 
 **Autor:** Jesus Enrique Flores Riera  
