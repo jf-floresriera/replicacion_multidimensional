@@ -1,6 +1,4 @@
-Aquí está el README completo para copiar y pegar directamente en GitHub:
 
-Ve a → github.com/jf-floresriera/replicacion_multidimensional → clic en "Add a README" o crear archivo README.md → pega esto:
 
 text
 # Replicación Multidimensional – Capítulo 21.5
